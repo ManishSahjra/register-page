@@ -19,7 +19,7 @@ body::before{
   height: 100%;
   background-position: center;
   background-size: cover;
-  background-image: url("C:/Users/manis/OneDrive/Documents/Desktop/img.jpg");
+  background-image: url("img.jpg");
 }
 .container{
   width: 400px;
